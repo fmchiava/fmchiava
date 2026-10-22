@@ -1,16 +1,14 @@
-## Hi there 👋
+# Fernando Chiavaloni
 
-<!--
-**fmchiava/fmchiava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Analista de QA Sênior | Automação de testes, APIs e qualidade de dados**
 
-Here are some ideas to get you started:
+Trabalho com testes de aplicações web, mobile e APIs, análise de regras de negócio, automação e investigação de falhas. Minha experiência recente também inclui processos operacionais e consolidação de dados. Estou estudando como aplicar práticas de QA à avaliação de sistemas com IA.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Portfólio
+
+- [Portfólio de QA e IA](https://github.com/fmchiava/Fernando-Chiavaloni): matriz de riscos, laboratório fictício de importação CSV e testes automatizados reproduzíveis.
+- [Progresso de aprendizado](https://github.com/fmchiava/Fernando-Chiavaloni/blob/master/aprendizado/progresso.md): fontes, experimentos e critérios para registrar resultados.
+
+O laboratório é um exercício com dados sintéticos, desenvolvido com assistência de IA. Estudos e ideias planejadas são identificados como tal; não representam entregas de clientes.
+
+[LinkedIn](https://www.linkedin.com/in/fernando-chiavaloni/) · [Repositório do portfólio](https://github.com/fmchiava/Fernando-Chiavaloni)
