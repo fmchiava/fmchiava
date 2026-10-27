@@ -6,9 +6,9 @@ Trabalho com testes de aplicações web, mobile e APIs, análise de regras de ne
 
 ## Portfólio
 
-- [Portfólio de QA e IA](https://github.com/fmchiava/Fernando-Chiavaloni): matriz de riscos, laboratório fictício de importação CSV e testes automatizados reproduzíveis.
-- [Progresso de aprendizado](https://github.com/fmchiava/Fernando-Chiavaloni/blob/master/aprendizado/progresso.md): fontes, experimentos e critérios para registrar resultados.
+- [Portfólio de QA e IA](https://github.com/fmchiava/portfolio-qa-automacao): matriz de riscos, laboratório fictício de importação CSV e testes automatizados reproduzíveis.
+- [Progresso de aprendizado](https://github.com/fmchiava/portfolio-qa-automacao/blob/master/aprendizado/progresso.md): fontes, experimentos e critérios para registrar resultados.
 
 O laboratório é um exercício com dados sintéticos, desenvolvido com assistência de IA. Estudos e ideias planejadas são identificados como tal; não representam entregas de clientes.
 
-[LinkedIn](https://www.linkedin.com/in/fernando-chiavaloni/) · [Repositório do portfólio](https://github.com/fmchiava/Fernando-Chiavaloni)
+[LinkedIn](https://www.linkedin.com/in/fernando-chiavaloni/) · [Repositório do portfólio](https://github.com/fmchiava/portfolio-qa-automacao)
